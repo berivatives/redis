@@ -4,7 +4,7 @@
         "complexity": "O(1)",
         "group": "hash",
         "since": "2.0.0",
-        "arity": 4,
+        "arity": -4,
         "function": "hincrbyCommand",
         "command_flags": [
             "WRITE",
